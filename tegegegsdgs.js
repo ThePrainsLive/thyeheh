@@ -17,5 +17,5 @@
          divsToHide[i].style.visibility = "hidden"; // or
          divsToHide[i].style.display = "none"; // depending on what you're doing
      }
-     }, 2000);
+     }, 100);
 })();
