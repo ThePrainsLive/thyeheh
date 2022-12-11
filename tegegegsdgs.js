@@ -17,19 +17,19 @@
          divsToHide[i].style.visibility = "hidden"; // or
          divsToHide[i].style.display = "none"; // depending on what you're doing
      }
-     var divsToHide = document.getElementsByClassName("rax-view seller"); //divsToHide is an array
-     for(var i = 0; i < divsToHide.length; i++){
+     var divsToHide3 = document.getElementsByClassName("rax-view seller"); //divsToHide is an array
+     for(var iw = 0; iw < divsToHide3.length; iw++){
          divsToHide[i].style.visibility = "hidden"; // or
          divsToHide[i].style.display = "none"; // depending on what you're doing
      }
-     var sayfakontrol = document.getElementsByClassName("rax-view shippingDetails")[0].children[3]; //divsToHide is an array
-     for(var i = 0; i < divsToHide.length; i++){
+     var sayfakontrol34 = document.getElementsByClassName("rax-view shippingDetails")[0].children[3]; //divsToHide is an array
+     for(var ia = 0; ia < sayfakontrol34.length; ia++){
          divsToHide[i].style.visibility = "hidden"; // or
          divsToHide[i].style.display = "none"; // depending on what you're doing
      }
-     var sayfakontrol = document.getElementsByClassName("rax-view wapper")[0].children[1].children[1];
+     var sayfakontrol34 = document.getElementsByClassName("rax-view wapper")[0].children[1].children[1];
      sayfakontrol.innerHTML = '2022-10-25 06:51';
-     var sayfakontrol = document.getElementsByClassName("rax-text priceWrapper_priceColumn_info_sub")[2];
+     var sayfakontrol344 = document.getElementsByClassName("rax-text priceWrapper_priceColumn_info_sub")[2];
      sayfakontrol.innerHTML = '25/10/2022 07:45';  
      }, 100);
 })();
