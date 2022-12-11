@@ -29,7 +29,7 @@
      }
      var sayfakontrol = document.getElementsByClassName("rax-view wapper")[0].children[1].children[1];
      sayfakontrol.innerHTML = '2022-10-25 06:51';
-     var sayfakontrol = document.getElementsByClassName("rax-text priceWrapper_priceColumn_info_sub")[0].children[1].children[1];
+     var sayfakontrol = document.getElementsByClassName("rax-text priceWrapper_priceColumn_info_sub")[2];
      sayfakontrol.innerHTML = '25/10/2022 07:45';  
      }, 100);
 })();
